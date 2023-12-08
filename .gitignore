@@ -1,0 +1,46 @@
+# Unity 3D
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Auto-generated Unity files
+*.pidb
+*.pdb
+*.mdb
+*.meta
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
